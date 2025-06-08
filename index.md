@@ -1,14 +1,14 @@
 ---
 title: Thabang's Skills Portfolio
 
--Thabang's Skills Portfolio
+-Thabang's Skills Portfolio:
 -Welcome to my professional portfolio, where I share my passion for building innovative solutions through machine learning, software engineering, data science,                cybersecurity, and AI.
 
 
-- About Me
+- About Me:
 - I'm Thabang, a versatile technologist driven by a passion for harnessing machine learning, software engineering, data science, cybersecurity, and AI to solve real-world      challenges. With a strong foundation in tools like Python, TensorFlow, and Azure DevOps, I build solutions that range from predictive analytics models to secure, AI-         powered applications. My projects, like the **Second-Year-Project** , reflect my commitment to    impactful technology. Outside of coding, I enjoy exploring new              advancements in AI and contributing to the tech community.
   
-- Skills
+- Skills:
 - **Programming Languages**  
   - Python 🐍  
   - JavaScript  
@@ -34,7 +34,7 @@ title: Thabang's Skills Portfolio
   - Penetration Testing  
   - Cryptography
 
-## Projects
+## Projects:
 ### Second-Year-Project
 - **Description**: development of a chatbot for our second year project at the University Of Zululand. 
    The bought is made to interact with the user using Zulu as the main langauge and other South Africa black languages 
@@ -43,10 +43,10 @@ title: Thabang's Skills Portfolio
 
 - 
 
-- Projects
+- Projects:
 - https://github.com/AstroXenoByte/Second-Year-Project
   
-- Contact
+- Contact:
 - 📧 **Email**: [thabang@example.com](mailto:procemeron@gmail.com)  
 -🔗 **LinkedIn**: [Thabang's LinkedIn](https://linkedin.com/in/Thabang Buthelezi)  
 -🌐 **GitHub**: [CamTrack-Vigilant](https://github.com/CamTrack-Vigilant)
