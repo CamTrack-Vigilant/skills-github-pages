@@ -1,4 +1,5 @@
 ---
+title: Welcome to my blog!
 title: Thabang's Skills Portfolio
 
 -Thabang's Skills Portfolio:
@@ -53,5 +54,4 @@ title: Thabang's Skills Portfolio
 
 
 *© 2025 Thabang Mvulane. Built with [GitHub Pages](https://pages.github.com).*
-title: Welcome to my blog!
 ---
